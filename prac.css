@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+
+.all{
+
+    background-color: violet;
+}
+
+.all{
+   /* display:inline-block; /*in this inlineblock given to biggest div only and not its child div*/
+   text-align: center;
+}
+
+.a5{
+    display:inline-block; /*in this inlineblock given to div's only*/
+
+}
+
+.a{
+    background-color: black;
+
+   
+}
+
+.b{
+
+    background-color: aqua;
+
+}
+
+.c{
+
+    background-color: blue;
+
+}

@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: grey;
+}
+.a{
+    text-align:center;
+    font-size:90px;
+    color:lightgreen;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.b 
+{
+   text-align:center;
+   display:inline-block;
+   color:black;
+   font-size:28px;
+   font-family: 'Times New Roman', Times, serif;
+   margin:10px; 
+}
+
+#h{
+    text-align:center;
+    color:black;
+    font-size: xx-large;
+}
+
+.b input{
+    box-shadow: 2px 2px 5px black;
+    background-color: yellow;
+    color:red;
+    height:1.5rem;
+    display:inline-block;
+}
